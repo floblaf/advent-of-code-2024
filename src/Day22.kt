@@ -1,5 +1,3 @@
-import kotlin.math.abs
-
 fun main() {
 
     fun Long.mix(secret: Long): Long {

@@ -1,5 +1,3 @@
-import kotlin.math.abs
-
 fun main() {
 
     fun part1(network: Map<String, List<String>>): Int {
